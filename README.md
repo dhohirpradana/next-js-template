@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-visit ## http://188.166.205.137:5000/
+## Visit http://188.166.205.137:5000/ to see
 
 ## Getting Started
 
